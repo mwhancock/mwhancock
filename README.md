@@ -7,7 +7,10 @@ I'm a student at Get Coding looking to transition into the tech industry.
 👩‍💻 I'm currently working on [Game Shelf](https://mwhancock.github.io/game-shelf), a site to manage your board game collection!
 
 ## 🛠 Skills
-* Javascript  
+* Javascript
+* React
+* Bootstrap
+* TailwindCSS
 * HTML  
 * CSS
 
